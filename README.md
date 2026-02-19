@@ -69,4 +69,4 @@ MIT License
 
 ---
 
-Built by Abhishek Gupta. Check out my [Twitter(X)](https://https://x.com/abhhhhhiiiiii) or connect on [LinkedIn](https://www.linkedin.com/in/abhishek-gupta-1aa879307/).
+Built by Abhishek Gupta. Check out my [Twitter(X)](https://x.com/abhhhhhiiiiii) or connect on [LinkedIn](https://www.linkedin.com/in/abhishek-gupta-1aa879307/).
